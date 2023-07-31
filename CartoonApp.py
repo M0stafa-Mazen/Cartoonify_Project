@@ -123,7 +123,7 @@ def upload_file():
         print("camera still not opend")
     else:
         cap.release()
-    fileTypes = [('Jpg Files', '*.png'),('PNG file','.jpg'),('All Files','.')]
+    fileTypes = [('PNG Files', '*.png'),('JPG file','.jpg'),('JPEG file','.jpeg'),('All Files','.')]
     fileName = filedialog.askopenfilename(title='Select Image File',filetypes=fileTypes)
     imf = cv2.imread(fileName)
     h,w,c = imf.shape
@@ -145,7 +145,7 @@ def savefile():
         # vlabel.grid(row=3,column=2)
     elif converted == True:
         print("Image Is Saved.")
-        filename = filedialog.asksaveasfile(mode='w',filetypes = fileTypes, defaultextension=".jpg")
+        filename = filedialog.asksaveasfile(mode='w',filetypes = [('JPG file','.jpg')], defaultextension=".jpg")
         if not filename:
             return
         cartoon1 = cv2.resize(cartoon,(w,h))
@@ -178,7 +178,7 @@ root = tk.Tk()
 root.title("Cartoon App")
 root['background']='#BDE0FE'
 font1=('times', 18, 'bold')
-root.iconbitmap(r'C:\Users\Mostafa_Mazen\Desktop\project\icons\i4.ico')
+#root.iconbitmap(r'C:\Users\Mostafa_Mazen\Desktop\project\icons\i4.ico')
 
 root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=3)
