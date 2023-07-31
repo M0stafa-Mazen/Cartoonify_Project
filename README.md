@@ -25,20 +25,20 @@ Below are some examples of original images and their corresponding cartoonified 
 
 **Original Image**
 
-![Original Image 1](example1.jpg)
+![Original Image 1](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/Lenna.png)
 
 **Cartoonified Image**
 
-![Cartoonified Image 1](example1_cartoonified.jpg)
+![Cartoonified Image 1](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/Lenna(conv).jpg)
 
 ### Example 2
 
 **Original Image**
 
-![Original Image 2](example2.jpg)
+![Original Image 2](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/deadpool.png)
 
 **Cartoonified Image**
 
-![Cartoonified Image 2](example2_cartoonified.jpg)
+![Cartoonified Image 2](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/deadpool(conv).jpg)
 
 Feel free to experiment with different images and settings to create your own unique cartoonified masterpieces!
