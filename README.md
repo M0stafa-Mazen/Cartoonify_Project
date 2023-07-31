@@ -1,6 +1,6 @@
 # Cartoonify_Project
 Cartoonify Image with Python and OpenCV
-![cartoonify]([[i4.png](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/icons/i4.png)])
+![cartoonify](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/icons/i4.png)
 
 ## Overview
 
