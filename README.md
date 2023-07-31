@@ -1,6 +1,7 @@
 # Cartoonify_Project
 Cartoonify Image with Python and OpenCV
-
+![cartoonify]([cartoonify_logo.jpg](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/icons/i4.ico))
+https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/icons/i4.ico
 
 ## Overview
 
