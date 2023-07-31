@@ -1,6 +1,6 @@
 # Cartoonify_Project
 Cartoonify Image with Python and OpenCV
-![cartoonify]([cartoonify_logo.jpg])
+![cartoonify]([i4.png])
 
 ## Overview
 
