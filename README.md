@@ -25,7 +25,7 @@ Here are some examples of original images and their corresponding cartoonified v
 | Original Image                | Cartoonified Image                   |
 |-------------------------------|--------------------------------------|
 | ![Original Image 1](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/Lenna.png) | ![Cartoonified Image 1](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/Lenna(conv).jpg)|
-| ![Original Image 2](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/deadpool.png) | ![Cartoonified Image 2]![Cartoonified Image 2](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/deadpool(conv).jpg) |
+| ![Original Image 2](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/deadpool.png) | ![Cartoonified Image 2](https://github.com/M0stafa-Mazen/Cartoonify-Project/blob/main/images/deadpool(conv).jpg) |
 
 Feel free to experiment with different images and settings to create your own unique cartoonified masterpieces!
 
